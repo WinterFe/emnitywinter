@@ -152,7 +152,7 @@
     "CHAT_GREY": "#171717"
   },
   "background": {
-    "blur": 0.6,
+    "blur": 0.0,
     "url": "https://cdn.discordapp.com/attachments/825914361515737108/1026606679124611093/emnitywinter.png",
     "alpha": 1.0
   }
